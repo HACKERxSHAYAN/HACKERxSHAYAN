@@ -1,7 +1,13 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0f172a&height=200&section=header&text=HACKERxSHAYAN&fontSize=60&theme=tokyonight&animation=twinkling)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Cyber+Security+Analyst;Full-Stack+Web+Developer;AI+%26+Intelligent+Systems" alt="Typing SVG" />
+  <!-- PIXEL HACKER HEADER BANNER -->
+  <img src="IMAGE_1_URL_PLACEHOLDER" alt="HACKERxSHAYAN Pixel Art Header" />
+</p>
+
+<p align="center">
+  <!-- PIXEL TERMINAL TYPING TEXT -->
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=600&size=28&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Establishing+Secure+Connection...;Accessing+Shayan's+Shell...;[AUTHORIZED];Cyber+Security+Analyst;Full-Stack+Web+Developer;AI+%26+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
 ---
