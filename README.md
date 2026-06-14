@@ -29,10 +29,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HACKERxSHAYAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=HACKERxSHAYAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-</p>
-
 ---
 [![](https://komarev.com/ghpvc/?username=HACKERxSHAYAN&icon=5&color=0)](https://visitcount.itsvg.in)
 
