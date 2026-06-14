@@ -1,4 +1,4 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0f172a&height=200&section=header&text=HACKERxSHAYAN&fontSize=60&theme=tokyonight&animation=twinkling)
+
 
 <p align="center">
   <!-- TOXIC PURPLE & NEON GREEN GLITCH HEADER -->
