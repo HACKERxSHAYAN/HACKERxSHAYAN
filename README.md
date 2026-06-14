@@ -1,10 +1,6 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0f172a&height=200&section=header&text=HACKERxSHAYAN&fontSize=60&theme=tokyonight&animation=twinkling)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0f172a&height=200&section=header&text=HACKERxSHAYAN&fontSize=60&theme=tokyonight&animation=twinkling" alt="Capsule Render" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Cyber+Security+Analyst;Full-Stack+Web+Developer;AI+%26+Intelligent+Systems" alt="Typing SVG" />
 </p>
 
