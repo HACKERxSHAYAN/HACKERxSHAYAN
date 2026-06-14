@@ -1,14 +1,16 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=slice&color=0f172a&height=200&section=header&text=HACKERxSHAYAN&fontSize=60&theme=tokyonight&animation=twinkling)
 
 <p align="center">
-  <!-- PIXEL HACKER HEADER BANNER -->
-  <img src="IMAGE_1_URL_PLACEHOLDER" alt="HACKERxSHAYAN Pixel Art Header" />
+  <!-- TOXIC PURPLE & NEON GREEN GLITCH HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=220&section=header&text=%E2%98%A0%EF%B8%8F%20HACKERxSHAYAN%20%E2%98%A0%EF%B8%8F&fontSize=55&fontColor=39FF14&animation=twinkling&theme=matrix" alt="Glitch Header" />
 </p>
 
 <p align="center">
-  <!-- PIXEL TERMINAL TYPING TEXT -->
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=600&size=28&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Establishing+Secure+Connection...;Accessing+Shayan's+Shell...;[AUTHORIZED];Cyber+Security+Analyst;Full-Stack+Web+Developer;AI+%26+Intelligent+Systems" alt="Typing SVG" />
+  <!-- RETRO PIXEL TERMINAL OVERRIDE -->
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=700&size=32&pause=800&color=39FF14&background=140126&center=true&vCenter=true&width=750&height=60&lines=%3E%3E+INITIALIZING+CORE+OVERRIDE...;%3E%3E+WARNING%3A+PURPLE+TEAM+MALWARE+DETECTED...;%3E%3E+BREAKING+THE+MAINFRAME%3B+ACCESS%3A+GRANTED%3B%3E%3E+WELCOME+TO+THE+ANOMALY." alt="Terminal Typing" />
 </p>
+
+---
 
 ---
 
