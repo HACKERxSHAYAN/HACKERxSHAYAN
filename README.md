@@ -1,18 +1,12 @@
 
-
 <p align="center">
   <!-- TOXIC PURPLE & NEON GREEN GLITCH HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=240046&height=220&section=header&text=%E2%98%A0%EF%B8%8F%20HACKERxSHAYAN%20%E2%98%A0%EF%B8%8F&fontSize=55&fontColor=39FF14&animation=twinkling&theme=matrix" alt="Glitch Header" />
 </p>
-
 <p align="center">
   <!-- RETRO PIXEL TERMINAL OVERRIDE -->
   <img src="https://readme-typing-svg.demolab.com/?font=VT323&weight=700&size=32&pause=800&color=39FF14&background=140126&center=true&vCenter=true&width=750&height=60&lines=%3E%3E+INITIALIZING+CORE+OVERRIDE...;%3E%3E+WARNING%3A+PURPLE+TEAM+MALWARE+DETECTED...;%3E%3E+BREAKING+THE+MAINFRAME%3B+ACCESS%3A+GRANTED%3B%3E%3E+WELCOME+TO+THE+ANOMALY." alt="Terminal Typing" />
 </p>
-
----
-
----
 
 # 💫 About Myself:
 🔭 Designing the future through code, security and artificial intelligence.<br>---><br>🤝 Seeking visionary builders and ambitious creators.<br>---><br>🛡️ Exploring offensive security, automation and intelligent systems.<br>---><br>🌱 Learning something new every single day.<br>---><br>💬 Ask me about Cybersecurity, Linux, AI and Technology.<br>---><br>⚡ Goal: From student to global tech entrepreneur.
